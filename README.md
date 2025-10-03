@@ -1,8 +1,8 @@
-# Mixed-precision iterative refinement for the low-rank Lyapunov equation
+# Mixed-precision iterative refinement for low-rank Lyapunov equations
 
 This repository contains the code used in the technical report:
 
-P. Benner and X. Liu. *Mixed-precision iterative refinement for the low-rank Lyapunov equation*, October 2025.
+P. Benner and X. Liu. [*Mixed-precision iterative refinement for low-rank Lyapunov equations*](https://arxiv.org/abs/2510.02126). ArXiv:2510.02126 [math.NA], October 2025.
 
 ## Dependencies
 
